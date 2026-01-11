@@ -1,5 +1,6 @@
 <div align="center">
- Hi there, I'm Vansh Gupta.👋
+
+# Hi there, I'm Vansh Gupta 👋
 
 ### 🚀 Full Stack Developer | Problem Solver | Tech Enthusiast
 
@@ -34,14 +35,7 @@ I'm a passionate developer from India who loves building innovative solutions an
 
 </td>
 </tr>
-<tr>
-<td><b>Cloud & Deployment</b></td>
-<td>
-  
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white)
 
-</td>
-</tr>
 <tr>
 <td><b>ML/Data Science</b></td>
 <td>
