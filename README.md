@@ -86,17 +86,8 @@ AI assistant with memory and tool capabilities
 Intelligent conversational agent built with modern AI frameworks for complex workflows.
 - *🎨 Stack: TypeScript, LangChain, LangGraph, OpenAI APIs.*
 - *✨ Features: Conversational memory, tool usage, multi-turn dialogues.*
-- *🌐 Demo: chatbot-gules-theta.vercel.app.*(https://chatbot-gules-theta.vercel.app/)
-
-### 🌟 [Project Name 2](https://github.com/yourusername/project2)
-A brief description of what this project does and the technologies used. Highlight the key features and your role.
-
-### 🌟 [Project Name 3](https://github.com/yourusername/project3)
-A brief description of what this project does and the technologies used. Highlight the key features and your role.
-
----
-
-
+- *🌐 Demo:*(https://chatbot-gules-theta.vercel.app/)
+- 
 ## 🎯 What I'm Up To
 
 - 🔭 Currently working on ***New Projects and Enhancing My Skills***
@@ -126,7 +117,7 @@ A brief description of what this project does and the technologies used. Highlig
   
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  "First, solve the problem. Then, write the code."              ║
+║  "First, solve the problem. Then, write the code."               ║
 ║                                        – John Johnson            ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
