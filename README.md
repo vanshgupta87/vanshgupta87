@@ -107,8 +107,7 @@ Intelligent conversational agent built with modern AI frameworks for complex wor
 
 <div align="center">
   
--   ⭐️ From *Vansh Gupta*. 
-- (https://github.com/vanshgupta87)
+-   ⭐️ From ***Vansh Gupta***. 
 </div>
 
 ---
