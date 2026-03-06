@@ -81,19 +81,19 @@ I'm a passionate developer from India who loves building innovative solutions an
 
 ## 🔥 Featured Projects
 
-###  🤖 Cosmic Chatbot
-AI assistant with memory and tool capabilities
-Intelligent conversational agent built with modern AI frameworks for complex workflows.
-- *🎨 Stack: TypeScript, LangChain, LangGraph, OpenAI APIs.*
-- *✨ Features: Conversational memory, tool usage, multi-turn dialogues.*
-- *🌐 Demo:*(https://chatbot-gules-theta.vercel.app/)
 
 ### ⚡ TypeDash
 High-performance typing speed trainer with real-time analytics and 1v1 duel mode.
 Distraction-free typing app built client-side for solo practice and local head-to-head battles.
 - *🎨 Stack: HTML, CSS, JavaScript.*
 - *✨ Features: Live WPM tracking, accuracy analytics, zen mode, local 1v1 duels.*
-- *🌐 Demo:* 
+- *🌐 Demo:*(https://type-dash-eight.vercel.app/) 
+###  🤖 Cosmic Chatbot
+AI assistant with memory and tool capabilities
+Intelligent conversational agent built with modern AI frameworks for complex workflows.
+- *🎨 Stack: TypeScript, LangChain, LangGraph, OpenAI APIs.*
+- *✨ Features: Conversational memory, tool usage, multi-turn dialogues.*
+- *🌐 Demo:*(https://chatbot-gules-theta.vercel.app/)
 
 ## 🎯 What I'm Up To
 
