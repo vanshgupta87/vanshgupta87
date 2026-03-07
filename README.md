@@ -79,6 +79,16 @@ I'm a passionate developer from India who loves building innovative solutions an
 
 ---
 
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanshgupta87/vanshgupta87/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanshgupta87/vanshgupta87/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vanshgupta87/vanshgupta87/output/github-snake.svg" />
+</picture>
+
+---
+
 ## 🔥 Featured Projects
 
 
