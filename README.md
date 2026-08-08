@@ -79,6 +79,68 @@ I'm a passionate developer from India who loves building innovative solutions an
 
 ---
 
+
+
+
+## 🔥 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 NeuroSight
+> ✍️ *.*
+
+**Stack:** 
+**Highlights:** 
+
+[![Demo](https://img.shields.io/badge/Demo-Live-8A2BE2?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌌 DevVerse
+> ✍️ *.*
+
+**Stack:** 
+**Highlights:** 
+
+[![Demo](https://img.shields.io/badge/Demo-Live-8A2BE2?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ TypeDash
+High-performance typing speed trainer with real-time analytics and a 1v1 duel mode. Built fully client-side for solo practice or local head-to-head battles.
+
+**Stack:** `HTML` `CSS` `JavaScript`
+**Highlights:** Live WPM tracking · Accuracy analytics · Zen mode · Local 1v1 duels
+
+[![Demo](https://img.shields.io/badge/Demo-Live-8A2BE2?style=flat-square&logo=vercel&logoColor=white)](https://type-dash-dev.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### ➕ More Loading...
+More builds are in the pipeline — new projects, sharper skills, and probably one too many side quests.
+
+</td>
+</tr>
+</table>
+
+
+---
+
+
+📊 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanshgupta87&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=B18CFF&icon_color=B18CFF&text_color=c9d1d9"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshgupta87&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=B18CFF&text_color=c9d1d9"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshgupta87&theme=radical&hide_border=true&background=0D1117&stroke=B18CFF&ring=B18CFF&fire=B18CFF&currStreakLabel=B18CFF" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshgupta87&theme=redical&hide_border=true&bg_color=0D1117&color=B18CFF&line=B18CFF&point=ffffff" width="100%"/> </div>
+
+---
+
 ## 🐍 Contribution Graph
 
 <picture>
@@ -89,26 +151,6 @@ I'm a passionate developer from India who loves building innovative solutions an
 
 ---
 
-## 🔥 Featured Projects
-
-
-### ⚡ TypeDash
-High-performance typing speed trainer with real-time analytics and 1v1 duel mode.
-Distraction-free typing app built client-side for solo practice and local head-to-head battles.
-- *🎨 Stack: HTML, CSS, JavaScript.*
-- *✨ Features: Live WPM tracking, accuracy analytics, zen mode, local 1v1 duels.*
-- *🌐 Demo:*(https://type-dash-dev.vercel.app/)
-
-
-## 🎯 What I'm Up To
-
-- 🔭 Currently working on ***New Projects and Enhancing My Skills***
-- 🌱 Learning ***Hybrid AI And Machine Learning***
-- 👯 Looking to collaborate on ***Open Source Projects***
-- 💬 Ask me about ***Web Development, Python, Hybrid AI***
-- ⚡ Fun fact: ***I Love Building Projects More Than Watching Tutorials.***
-
----
 
 ## 📫 Let's Connect
 
@@ -117,20 +159,14 @@ Distraction-free typing app built client-side for solo practice and local head-t
 
 ---
 
-<div align="center">
-  
--   ⭐️ From ***Vansh Gupta***. 
-</div>
 
----
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=B18CFF&center=true&vCenter=true&width=600&lines=Let's+build+something+great+together" alt="Closing SVG" />
+<br/><br/>
+<table> <tr><td align="center">
+🧭
+"Code is easy.
+Knowing what to build — that's the real work."
 
-<div align="center">
-  
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  "First, solve the problem. Then, write the code."               ║
-║                                        – John Johnson            ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+— Vansh Gupta
 
 </div>
