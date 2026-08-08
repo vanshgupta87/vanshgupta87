@@ -97,13 +97,8 @@ High-performance typing speed trainer with real-time analytics and 1v1 duel mode
 Distraction-free typing app built client-side for solo practice and local head-to-head battles.
 - *🎨 Stack: HTML, CSS, JavaScript.*
 - *✨ Features: Live WPM tracking, accuracy analytics, zen mode, local 1v1 duels.*
-- *🌐 Demo:*(https://type-dash-dev.vercel.app/) 
-###  🤖 Cosmic Chatbot
-AI assistant with memory and tool capabilities
-Intelligent conversational agent built with modern AI frameworks for complex workflows.
-- *🎨 Stack: TypeScript, LangChain, LangGraph, OpenAI APIs.*
-- *✨ Features: Conversational memory, tool usage, multi-turn dialogues.*
-- *🌐 Demo:*(https://chatbot-gules-theta.vercel.app/)
+- *🌐 Demo:*(https://type-dash-dev.vercel.app/)
+
 
 ## 🎯 What I'm Up To
 
